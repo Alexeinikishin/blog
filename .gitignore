@@ -1,0 +1,6 @@
+.idea/
+.venv/
+blog/__pycache__/
+blog/migrations/__pycache__/
+*.sqlite3
+django_project/__pycache__/
